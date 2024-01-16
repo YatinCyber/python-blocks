@@ -12,7 +12,8 @@
         "README.md",
         "main.py",
         "api.py",
-        "api.ts"
+        "api.ts",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -24,5 +25,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "tsprj"
 }
